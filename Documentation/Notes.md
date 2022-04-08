@@ -2,9 +2,6 @@
 
 ## Structure
 
-<p align="center">
-  <img src="/Images/Notes/Structure.png" />
-</p>
 
 ## Video Cache (Two-Level Caching)
 
